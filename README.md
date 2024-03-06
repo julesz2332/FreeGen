@@ -29,7 +29,7 @@ Ce qui offres la source de FreeGen:
 
 ### Comment utiliser la source ?
 
-Laissez moi le temps pour l'instant contacter moi sur Discord -> `Ceed#2117`
+Laissez moi le temps pour l'instant contacter moi sur Discord -> `ceed2117`
 
 ## Lien utiles
 
